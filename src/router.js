@@ -1,6 +1,6 @@
 import foo from './views/foo'
 import bar from './views/bar'
-const routes = {
+const Routes = {
     '/foo':foo,
     '/bar':bar
 }
